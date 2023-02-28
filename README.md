@@ -1,4 +1,6 @@
-# Password Generator
+# Password Generator 
+![image](https://user-images.githubusercontent.com/90836873/221809398-53df002f-2006-45e7-8992-5cd642d29df6.png)
+
 This is a simple password generator project built in Python. 
 The program generates a random password of a specified length consisting of uppercase and lowercase letters, numbers, and special characters.
 
